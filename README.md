@@ -13,7 +13,7 @@ Se aplican técnicas de limpieza de datos, análisis exploratorio y visualizaci�
 ## 💼 Business Problem
 Las empresas de banca digital enfrentan el reto de **activar y retener clientes** en un mercado competitivo.  
 El problema central: ¿qué factores influyen en la activación y retención de clientes, y cómo optimizar la experiencia para reducir el churn?
--Un punto clave es la facilidad con la que los clientes pueden acceder a su dinero 💵 desde el teléfono.
+## Un punto clave es la facilidad con la que los clientes pueden acceder a su dinero 💵 desde el teléfono.
 Llevar efectivo suele ser incómodo: manejar billetes y monedas genera desorden, dificulta el cambio de divisas y aumenta el riesgo de pérdida.
 Con una **Wallet Digital 💳📱**, todo se concentra en una sola aplicación segura, práctica y siempre disponible, eliminando la necesidad de andar con “cash” y mejorando la experiencia del usuario.
 
@@ -31,7 +31,7 @@ Con una **Wallet Digital 💳📱**, todo se concentra en una sola aplicación s
 **Data Analytics**: funnel analysis, segmentación y retención.
   
 
-## 📊 Resultados
+## Resultados
  Activación de clientes: 100% vs meta de 80%.  
  Distribución de edades: mayor concentración en jóvenes de 18–25 años.  
  Saldos por segmento: clientes premium concentran el 60% del saldo total.  
