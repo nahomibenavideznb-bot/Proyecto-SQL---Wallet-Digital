@@ -30,6 +30,11 @@ Con una **Wallet Digital 💳📱**, todo se concentra en una sola aplicación s
  **SQL**: consultas, limpieza y análisis exploratorio.  
 **Power BI**: visualización de KPIs y dashboards interactivos.  
 **Data Analytics**: funnel analysis, segmentación y retención.
+
+
+## 📊 Dashboard en Power BI
+[Dashboard Wallet Digital](segmentacion_clientes.pdf)
+
   
 
 ## Resultados
