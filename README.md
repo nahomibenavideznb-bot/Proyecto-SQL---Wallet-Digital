@@ -56,5 +56,6 @@ Escalar el análisis hacia modelos predictivos de churn.
 
 ## 👩‍💻 Autora
 Nahomi Benavidez 
-Analista de datos en formación | SQL • Power BI • Full Stack
+
+**Analista de datos en formación | SQL • Power BI • Full Stack
 
