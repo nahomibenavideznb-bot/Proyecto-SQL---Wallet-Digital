@@ -33,7 +33,7 @@ Con una **Wallet Digital 💳📱**, todo se concentra en una sola aplicación s
 
 
 ## 📊 Dashboard en Power BI
-![Vista previa del Dashboard](./segmentacion_clientes.png)
+![Vista previa del Dashboard](./Dashboard..png)
 [Dashboard Wallet Digital](segmentacion_clientes.pdf)
 
   
